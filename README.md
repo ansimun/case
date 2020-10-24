@@ -1,4 +1,3 @@
 # case
 
-![Image]
-(case.png)
+![image](/case.png?raw=true "Optional Title")
